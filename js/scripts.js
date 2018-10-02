@@ -8,5 +8,6 @@ $(document).ready(function() {
     event.preventDefault();
 
     $(".word").text(word);
+    $("#result").show();
   });
 });
