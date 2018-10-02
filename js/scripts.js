@@ -11,8 +11,7 @@ $(document).ready(function() {
     breakUps.forEach(function(breakUp) {
       words.push(breakUp);
     });
-    console.log(words);
-    //word2.push(word3);
+
 
     $(".word").text(words);
     $("#result").show();

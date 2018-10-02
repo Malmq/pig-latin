@@ -9,3 +9,10 @@
 | word starts with "y" | yellow | ellowyway |
 | numerical characters|3|please enter a word|
 |single letter word that is also a vowel|i|iay|
+
+
+* check out substrings
+* pokojt
+* check out character at
+* slice to cut off
+* calebpaul
